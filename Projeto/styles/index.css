@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&family=Cherry+Bomb+One&family=Modak&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: auto;
+    background: url(../images/image\ 2.png), lightgray 50% / cover no-repeat;
+}
+
+header{
+    width: 100%;
+    height: 94px;
+    border-radius: 0 0 30px 30px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), rgba(64, 64, 64, 0.76);
+    color: #FFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Changa One;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+main h3{
+    color: #FFF;
+    text-shadow: 0px 4px 4px #000;
+    font-family: Cherry Bomb One;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 21px 0;
+}
+
+#musica {
+    width: 1110px;
+    height: 81px;
+    border-radius: 30px;
+    background: #D73E8D;
+    box-shadow: 0px 4px 4px 0px #000;
+    display: flex;
+    align-items: center;
+    margin: 0 20px 32px 0;
+    
+}
+
+#logo1 {
+    width: 75px;
+    height: 75px;
+    border-radius: 81px;
+    border: 1px solid #000;
+    background: url(../images/Ellipse\ 1\ \(1\).png);
+    box-shadow: 0px 4px 4px 0px #000;
+    margin-left: 60px;
+}
+
+#musica2 {
+    color: #FFF;
+    text-decoration: none;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Modak;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 76px;
+    margin-top: 10px;
+}
+
+#entrar {
+    width: 60px;
+    height: 60px;
+    margin-left: 508px;
+    margin-top: 10px;
+}
+
+#artes {
+    width: 1110px;
+    height: 81px;
+    border-radius: 30px;
+    background: #D8623F;
+    box-shadow: 0px 4px 4px 0px #000;
+    display: flex;
+    align-items: center;
+    margin: 32px;
+}
+
+#logo2 {
+    width: 75px;
+    height: 75px;
+    border-radius: 81px;
+    border: 1px solid #000;
+    background: url(../images/Ellipse\ 6.png);
+    box-shadow: 0px 4px 4px 0px #000;
+    margin-left: 60px;
+}
+
+#artes1 {
+    color: #FFF;
+    text-decoration: none;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Modak;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 76px;
+    margin-top: 10px;
+}
+
+#entrar2{
+    width: 60px;
+    height: 60px;
+    margin-left: 294px;
+    margin-top: 10px;
+}
+
+#Desing {
+    width: 1110px;
+    height: 81px;
+    border-radius: 30px;
+    background: #4542AD;
+    box-shadow: 0px 4px 4px 0px #000;
+    display: flex;
+    align-items: center;
+    margin: 32px;
+}
+
+#logo3 {
+    width: 75px;
+    height: 75px;
+    border-radius: 81px;
+    border: 1px solid #000;
+    background: url(../images/Ellipse\ 5.png);
+    box-shadow: 0px 4px 4px 0px #000;
+    margin-left: 60px;
+}
+
+#Desing1 {
+    color: #FFF;
+    text-decoration: none;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Modak;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 76px;
+    margin-top: 10px;
+}
+
+#entrar3{
+    width: 60px;
+    height: 60px;
+    margin-left: 511px;
+    margin-top: 10px;
+}
+
+#Desing {
+    width: 1110px;
+    height: 81px;
+    border-radius: 30px;
+    background: #4542AD;
+    box-shadow: 0px 4px 4px 0px #000;
+    display: flex;
+    align-items: center;
+    margin: 32px;
+}
+
+#logo3 {
+    width: 75px;
+    height: 75px;
+    border-radius: 81px;
+    border: 1px solid #000;
+    background: url(../images/Ellipse\ 5.png);
+    box-shadow: 0px 4px 4px 0px #000;
+    margin-left: 60px;
+}
+
+#Desing1 {
+    color: #FFF;
+    text-decoration: none;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Modak;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 76px;
+    margin-top: 10px;
+}
+
+#entrar3{
+    width: 60px;
+    height: 60px;
+    margin-left: 511px;
+    margin-top: 10px;
+}
+
+#Moda {
+    width: 1110px;
+    height: 81px;
+    border-radius: 30px;
+    background: #FF8FB8;
+    box-shadow: 0px 4px 4px 0px #000;
+    display: flex;
+    align-items: center;
+    margin: 32px;
+}
+
+#logo4 {
+    width: 75px;
+    height: 75px;
+    border-radius: 81px;
+    border: 1px solid #000;
+    background: url(../images/Ellipse\ 4.png);
+    box-shadow: 0px 4px 4px 0px #000;
+    margin-left: 60px;
+}
+
+#Moda1 {
+    color: #FFF;
+    text-decoration: none;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Modak;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 76px;
+    margin-top: 10px;
+}
+
+#entrar4{
+    width: 60px;
+    height: 60px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+
+#culinaria {
+    width: 1110px;
+    height: 81px;
+    border-radius: 30px;
+    background: #FACC29;
+    box-shadow: 0px 4px 4px 0px #000;
+    display: flex;
+    align-items: center;
+    margin: 32px;
+}
+
+#logo5 {
+    width: 75px;
+    height: 75px;
+    border-radius: 81px;
+    border: 1px solid #000;
+    background: url(../images/Ellipse\ 3.png);
+    box-shadow: 0px 4px 4px 0px #000;
+    margin-left: 60px;
+}
+
+#culinaria1 {
+    color: #FFF;
+    text-decoration: none;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Modak;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 76px;
+    margin-top: 10px;
+}
+
+#entrar5{
+    width: 60px;
+    height: 60px;
+    margin-left: 440px;
+    margin-top: 10px;
+}
